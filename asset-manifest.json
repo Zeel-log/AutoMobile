@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/AutoMobile/static/css/main.34ae7eb5.chunk.css",
+    "main.js": "/AutoMobile/static/js/main.f526ba7e.chunk.js",
+    "main.js.map": "/AutoMobile/static/js/main.f526ba7e.chunk.js.map",
+    "runtime-main.js": "/AutoMobile/static/js/runtime-main.ccf53c9f.js",
+    "runtime-main.js.map": "/AutoMobile/static/js/runtime-main.ccf53c9f.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/AutoMobile/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.e76f94b9.chunk.js": "/AutoMobile/static/js/2.e76f94b9.chunk.js",
+    "static/js/2.e76f94b9.chunk.js.map": "/AutoMobile/static/js/2.e76f94b9.chunk.js.map",
+    "index.html": "/AutoMobile/index.html",
+    "precache-manifest.d0f771928b4e1b25fa611a8502216a08.js": "/AutoMobile/precache-manifest.d0f771928b4e1b25fa611a8502216a08.js",
+    "service-worker.js": "/AutoMobile/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/AutoMobile/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.34ae7eb5.chunk.css.map": "/AutoMobile/static/css/main.34ae7eb5.chunk.css.map",
+    "static/js/2.e76f94b9.chunk.js.LICENSE.txt": "/AutoMobile/static/js/2.e76f94b9.chunk.js.LICENSE.txt",
+    "static/media/aboutimg.jpg": "/AutoMobile/static/media/aboutimg.10f5341a.jpg",
+    "static/media/brake.jpg": "/AutoMobile/static/media/brake.4713aa09.jpg",
+    "static/media/car1.png": "/AutoMobile/static/media/car1.ad312d14.png",
+    "static/media/carac.jpg": "/AutoMobile/static/media/carac.315a200f.jpg",
+    "static/media/carepair.jpg": "/AutoMobile/static/media/carepair.2b1942fb.jpg",
+    "static/media/engine.jpg": "/AutoMobile/static/media/engine.e8014052.jpg",
+    "static/media/gear.jpg": "/AutoMobile/static/media/gear.71446224.jpg",
+    "static/media/oil.jpg": "/AutoMobile/static/media/oil.6faf868a.jpg",
+    "static/media/steering.jpg": "/AutoMobile/static/media/steering.15f6c934.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccf53c9f.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.e76f94b9.chunk.js",
+    "static/css/main.34ae7eb5.chunk.css",
+    "static/js/main.f526ba7e.chunk.js"
+  ]
+}
